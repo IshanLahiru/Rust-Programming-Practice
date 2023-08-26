@@ -15,5 +15,5 @@ fn main(){
 
     //prinnt the user's input
     println!("you entered: {}",input);
-    
+
 }
