@@ -1,3 +1,5 @@
+mod lanfcheck;
+
 use druid::widget::{Flex, Label, TextBox};
 use druid::{
     AppLauncher, Data, Lens, LocalizedString, Widget, WindowDesc, Color, WidgetExt,
